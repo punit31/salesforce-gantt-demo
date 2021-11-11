@@ -6,6 +6,6 @@
       }
     ],
     "namespace": "",
-    "sfdcLoginUrl": "",
+    "sfdcLoginUrl": "https://concret-io-dev-ed.my.salesforce.com",
     "sourceApiVersion": "47.0"
   }
